@@ -8,4 +8,4 @@ Contact Information
 •	LinkedIn: https://www.linkedin.com/in/vigneswar-sundaramurthy/
 
 Thank you for visiting my portfolio. Please feel free to explore my projects, and research work, and reach out if you have any questions or opportunities for collaboration.
-![image](https://github.com/AishwaryaDekhane/aishwaryadekhane.github.io/assets/46292151/644658f7-6fdf-42ae-8bbd-fb1d41cbacbb)
+
